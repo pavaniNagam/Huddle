@@ -69,9 +69,9 @@ body{
     padding-top: 10%;
     padding-bottom: 10%;
     background-color:gray; 
-    background: url(/images/bg-section-top-desktop-1.svg) top left no-repeat, 
-                url(/images/bg-section-bottom-desktop-1.svg) bottom left no-repeat,
-                url(/images/bg-section-top-desktop-1.svg) center left no-repeat;
+    background: url(./images/bg-section-top-desktop-1.svg) top left no-repeat, 
+                url(./images/bg-section-bottom-desktop-1.svg) bottom left no-repeat,
+                url(./images/bg-section-top-desktop-1.svg) center left no-repeat;
 
 }
 
@@ -81,9 +81,9 @@ body{
     padding-top: 10%;
     padding-bottom: 10%;
     background-color:gray; 
-    background: url(/images/bg-section-top-desktop-2.svg) top left no-repeat, 
-                url(/images/bg-section-bottom-desktop-2.svg) bottom left no-repeat,
-                url(/images/bg-section-top-desktop-2.svg) center left no-repeat;
+    background: url(./images/bg-section-top-desktop-2.svg) top left no-repeat, 
+                url(./images/bg-section-bottom-desktop-2.svg) bottom left no-repeat,
+                url(./images/bg-section-top-desktop-2.svg) center left no-repeat;
 
 }
 
@@ -93,7 +93,7 @@ body{
     padding-top: 10%;
     padding-bottom: 10%;
     background-color:#00252e    ; 
-    background: url(/images/bg-footer-top-desktop.svg) top left no-repeat;
+    background: url(./images/bg-footer-top-desktop.svg) top left no-repeat;
     marging-bottom: 0px;
     color: white;
 }
